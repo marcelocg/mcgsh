@@ -1,0 +1,29 @@
+title: Stackbit Fresh Theme
+baseURL: /
+params:
+  layout_style: overflow
+  palette: blue
+  header:
+    title: Marcelo Gonçalves
+    tagline: >-
+      Long term backend developer with a master degree in capacity planning for
+      applications running in IaaS cloud providers. Also ineterested in
+      photography, game dev, drawing, habits formation and podcasts.
+    profile_img: >-
+      https://res.cloudinary.com/practicaldev/image/fetch/s--5RsYwqj6--/c_fill,f_auto,fl_progressive,h_320,q_auto,w_320/https://thepracticaldev.s3.amazonaws.com/uploads/user/profile_image/24442/45fabad1-1938-42ad-979d-7ae8c963a269.jpg
+    bg: dark
+    has_nav: true
+    has_social: true
+  footer:
+    content: '&copy; All rights reserved.'
+    links:
+      - text: Made with Stackbit
+        url: 'https://www.stackbit.com'
+        new_window: true
+      - text: Generated from DEV
+        url: 'https://dev.to/connecting-with-stackbit'
+        new_window: true
+disableKinds:
+  - RSS
+  - taxonomy
+  - taxonomyTerm
