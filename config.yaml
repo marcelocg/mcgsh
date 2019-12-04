@@ -6,9 +6,8 @@ params:
   header:
     title: Marcelo Gonçalves
     tagline: >-
-      Long term backend developer with a master degree in capacity planning for
-      applications running in IaaS cloud providers. Also ineterested in
-      photography, game dev, drawing, habits formation and podcasts.
+      Long term Java backend developer with a bias for reactive systems, DevOps and system programming, but also ineterested in
+      game dev, drawing, photography, music production, habits formation and podcasts.
     profile_img: >-
       https://res.cloudinary.com/practicaldev/image/fetch/s--5RsYwqj6--/c_fill,f_auto,fl_progressive,h_320,q_auto,w_320/https://thepracticaldev.s3.amazonaws.com/uploads/user/profile_image/24442/45fabad1-1938-42ad-979d-7ae8c963a269.jpg
     bg: dark
