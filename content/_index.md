@@ -8,7 +8,7 @@ sections:
       Here is the place where I write down my latest findings in tech, programming, 
       software architecture, DevOps, gaming and game dev, etc. Maybe you'll see 
       some project ideas and drafts too. It's also one of many places you can find
-      me and start a chat :-)
+      me and start a chat.
   - section_id: about
     component: content_block.html
     type: contentblock
@@ -26,7 +26,7 @@ sections:
       You can excpect to find content here on any of (but not limited to) these
       ubjects. Hope you like the variety and depth of the articles I write. Feel
       free to get in touch via social media, e-mail or commenting on 
-      [DEV](https://dev.to/marcelocg) where my articles are cross-posted.
+      DEV where my articles are cross-posted.
 actions:
       - label: Contact Me
         url: /contact
