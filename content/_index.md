@@ -27,7 +27,7 @@ sections:
       ubjects. Hope you like the variety and depth of the articles I write. Feel
       free to get in touch via social media, e-mail or commenting on 
       DEV where my articles are cross-posted.
-actions:
+    actions:
       - label: Contact Me
         url: /contact
   - section_id: recent-posts
