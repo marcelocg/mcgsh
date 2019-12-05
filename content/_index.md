@@ -28,10 +28,10 @@ sections:
       I'm most focused on backend Java with Spring ecossystem, reactive
       systems, Kafka, Docker and Kubernetes.</p>
       
-      <p>This is [my Blog](/blog), where you can excpect to find content on any of
+      <p>This is <a href="/blog">my Blog</a>, where you can excpect to find content on any of
       (but not limited to) these subjects. Hope you like the variety and depth 
       of the articles I write. Feel free to get in touch via social media, e-mail 
-      or commenting on [DEV](https://dev.to/marcelocg), where my articles are 
+      or commenting on <a href="https://dev.to/marcelocg">DEV</a>, where my articles are 
       cross-posted from.</p>
   - section_id: recent-posts
     component: posts_block.html
