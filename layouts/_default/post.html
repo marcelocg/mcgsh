@@ -2,7 +2,10 @@
 
   <article class="post post-full">
     <header class="post-header">
-      <h1 class="post-title underline">{{ .Params.title }}</h1>
+      <h1 class="post-title underline">{{ .Params.title }}<br/>
+      <time class="published"
+        datetime="{{ .Date | dateFormat "2006-01-02 15:04" }}">{{ .Date | dateFormat "Monday, January 2, 2006" }}</time>
+      </h1>
     </header><!-- .post-header -->
     {{ if .Params.subtitle }}
     <div class="post-subtitle">
