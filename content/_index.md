@@ -5,18 +5,32 @@ sections:
     component: hero_block.html
     type: heroblock
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      Here is the place where I write down my latest findings in tech, programming, 
+      software architecture, DevOps, gaming and game dev, etc. Maybe you'll see 
+      some project ideas and drafts too. It's also one of many places you can find
+      me and start a chat :-)
   - section_id: about
     component: content_block.html
     type: contentblock
     title: About
     content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
-    actions:
+      I am a software developer since mid 90's and have experienced all major
+      languages, platforms and paradigms since. From good old Clipper 5 to 
+      VB and Delphi, then some weird ones like Progress and Centura, then to 
+      web with ASP and PHP. Well, this was a long time ago...
+      
+      Over the last 20 years (I was about to write "recently", but figured it 
+      to not that recent) I've put my hands on Java, Ruby and Python. Had even
+      some time and opportunities to experiment with Go, Elixir and Rust. Today
+      I'm most focused on backend Java with Spring ecossystem, reactive
+      systems, Kafka, Docker and Kubernetes.
+      
+      You can excpect to find content here on any of (but not limited to) these
+      ubjects. Hope you like the variety and depth of the articles I write. Feel
+      free to get in touch via social media, e-mail or commenting on 
+      [DEV](https://dev.to/marcelocg) where my articles are cross-posted.
+
+actions:
       - label: Contact Me
         url: /contact
   - section_id: recent-posts
