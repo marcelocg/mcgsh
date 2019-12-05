@@ -7,9 +7,11 @@
   <div class="hero-text">
     {{ partial "markdownify-block" .section.content }}
   </div>
+  {{ if .section.actions }}
   <p class="block-cta">
       {{ range $action := .section.actions }}
       <a href="{{ $action.url | relURL }}" class="button">{{ $action.label }}</a>
       {{ end }}
   </p>
+  {{ end }}
 </section><!-- .hero -->
